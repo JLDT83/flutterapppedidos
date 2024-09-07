@@ -312,7 +312,7 @@ class _OrdenPedidoState extends State<OrdenPedido> {
                         ),
                       ),
                     ),
-                    child: Text('Precio x unidad: '),
+                    child: Text('Precio x Unidad: '),
                   ),
                 ),
               ),
